@@ -1,0 +1,51 @@
+/* --- resets ---*/
+body {
+	margin: 0;
+	background-color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+ul,
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+ul{
+	padding-left: 0;
+}
+/*--- flexible images ---*/
+
+.img {
+	width: auto;
+	max-width: 100%;
+	height: auto;
+	display: block;
+  margin: auto;
+}
+/*---                ---*/
+
+h2{
+letter-spacing: 0em;
+}
+
+header{
+ display: inline;
+ }
+
+#cv {
+padding: 1em 1em 1em 1em;
+}
+
+ul{
+ list-style-type: none;
+ display: block;
+}
+
+p{
+padding: 1em 0em 1em 0em;
+font-size: 150%;
+}
